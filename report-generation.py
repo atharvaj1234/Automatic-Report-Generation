@@ -155,7 +155,7 @@ def main():
     data = fetch_data_from_database()
 
     # Create report and print the Report
-    print_python(data)
+    #print_python(data)
     create_report(data)
 
 if __name__ == "__main__":
